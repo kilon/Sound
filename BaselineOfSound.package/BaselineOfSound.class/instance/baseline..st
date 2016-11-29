@@ -9,6 +9,7 @@ baseline: spec
 			spec 
 			   package: 'SoundMorphicExtension';	
 				package: 'Sound';
-				package: 'SoundMorphicUserInterface';    
-			   package: 'SoundScores'.
+				package: 'SoundScores';
+				package: 'SoundMorphicUserInterface'.  
+			   
  ]	
