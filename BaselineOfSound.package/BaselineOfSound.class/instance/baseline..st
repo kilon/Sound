@@ -7,8 +7,8 @@ baseline: spec
 			[
 			
 			spec 
-			 	package: 'SoundMorphicUserInterface';    
-				package: 'SoundMorphicExtension';
-			   package: 'Sound';
+			   package: 'SoundMorphicExtension';	
+				package: 'Sound';
+				package: 'SoundMorphicUserInterface';    
 			   package: 'SoundScores'.
  ]	
