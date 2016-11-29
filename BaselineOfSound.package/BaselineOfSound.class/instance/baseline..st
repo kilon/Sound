@@ -6,8 +6,9 @@ baseline: spec
 		do:
 			[
 			
-			spec package: 'Sound';
-			     package: 'SoundMorphicExtension';
-			     package: 'SoundMorphicUserInterface';
-			     package: 'SoundScores'.
+			spec 
+			 	package: 'SoundMorphicUserInterface';    
+				package: 'SoundMorphicExtension';
+			   package: 'Sound';
+			   package: 'SoundScores'.
  ]	
