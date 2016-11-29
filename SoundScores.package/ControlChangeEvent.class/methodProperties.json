@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"control:value:channel:" : "stephaneducasse 2/4/2006 20:41",
+		"printOnStream:" : "MPW 1/1/1901 22:27",
+		"isControlChange" : "jm 9/10/1998 09:45",
+		"control" : "jm 9/10/1998 07:49",
+		"control:" : "stephaneducasse 2/4/2006 20:41",
+		"value" : "jm 9/10/1998 08:02",
+		"printOn:" : "sma 6/1/2000 09:34",
+		"value:" : "stephaneducasse 2/4/2006 20:41",
+		"channel:" : "stephaneducasse 2/4/2006 20:41",
+		"channel" : "jm 9/10/1998 07:47",
+		"outputOnMidiPort:" : "jm 9/10/1998 18:31"
+	},
+	"class" : { }
+}

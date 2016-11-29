@@ -1,0 +1,26 @@
+{
+	"instance" : {
+		"playback" : "sw 6/10/2003 12:59",
+		"addButtonRows" : "stephane.ducasse 11/8/2008 15:10",
+		"buttonName:action:" : "jhm 10/15/97 14:30",
+		"makeRecordMeter" : "jm 8/24/97 21:31",
+		"startStepping" : "tk 6/24/1999 11:41",
+		"stepTime" : "jm 8/24/97 21:00",
+		"makeStatusLight" : "jhm 10/15/97 15:06",
+		"record" : "jhm 10/15/97 14:30",
+		"done" : "stephane.ducasse 11/8/2008 15:11",
+		"step" : "jm 10/17/97 15:00",
+		"initialize" : "ar 11/9/2000 21:58",
+		"stop" : "jhm 10/15/97 14:30",
+		"recorder" : "jm 9/13/97 17:20",
+		"stopStepping" : "jm 10/17/97 15:13",
+		"addRecordLevelSlider" : "ar 11/9/2000 21:21",
+		"makeSoundMorph" : "sw 6/10/2003 12:59",
+		"show" : "sw 6/10/2003 12:59",
+		"trim" : "sw 6/10/2003 12:59"
+	},
+	"class" : {
+		"registerInFlapsRegistry" : "asm 4/11/2003 10:54",
+		"descriptionForPartsBin" : "sw 8/2/2001 18:18"
+	}
+}

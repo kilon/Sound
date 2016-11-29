@@ -1,0 +1,10 @@
+{
+	"instance" : {
+		"play" : "jm 11/14/97 11:08",
+		"initialize" : "jm 11/14/97 11:21",
+		"makeControlPanel" : "tk 2/19/2001 18:14",
+		"reset" : "jm 11/14/97 11:08",
+		"stop" : "jm 11/14/97 11:21"
+	},
+	"class" : { }
+}

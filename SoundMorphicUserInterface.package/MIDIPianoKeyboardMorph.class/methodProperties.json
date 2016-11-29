@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"makeMIDIController:" : "jm 10/12/1998 18:11",
+		"mouseUpPitch:event:noteMorph:" : "ar 3/17/2001 14:41",
+		"initialize" : "dgd 2/14/2003 20:55",
+		"closeMIDIPort" : "jm 10/12/1998 15:57",
+		"mouseDownPitch:event:noteMorph:" : "ar 3/17/2001 14:40",
+		"addCustomMenuItems:hand:" : "dgd 8/30/2003 21:50",
+		"turnOffNote" : "jm 10/12/1998 15:44",
+		"openMIDIPort" : "jm 10/12/1998 18:00",
+		"turnOnNote:" : "jm 10/12/1998 16:25"
+	},
+	"class" : { }
+}

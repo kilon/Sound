@@ -1,0 +1,31 @@
+{
+	"instance" : {
+		"compressWith:" : "RAA 12/8/2000 09:50",
+		"compressWith:atRate:" : "RAA 12/24/2000 08:53",
+		"asSound" : "stephaneducasse 2/4/2006 20:41",
+		"codecName" : "jm 2/2/1999 09:34",
+		"gain" : "jm 2/2/1999 09:55",
+		"samplingRate" : "jm 2/2/1999 08:13",
+		"samplingRate:" : "stephaneducasse 2/4/2006 20:41",
+		"gain:" : "stephaneducasse 2/4/2006 20:41",
+		"loopLength" : "jm 2/2/1999 08:11",
+		"reset" : "stephaneducasse 2/4/2006 20:41",
+		"mixSampleCount:into:startingAt:leftVol:rightVol:" : "di 2/17/1999 08:49",
+		"codecName:" : "stephaneducasse 2/4/2006 20:41",
+		"firstSample" : "jm 2/2/1999 09:56",
+		"channels:" : "stephaneducasse 2/4/2006 20:41",
+		"doControl" : "di 2/17/1999 08:49",
+		"samples" : "di 2/17/1999 20:44",
+		"perceivedPitch" : "jm 2/2/1999 09:39",
+		"loopLength:" : "stephaneducasse 2/4/2006 20:41",
+		"channels" : "jm 2/2/1999 08:10",
+		"loopEnd:" : "stephaneducasse 2/4/2006 20:40",
+		"perceivedPitch:" : "stephaneducasse 2/4/2006 20:40",
+		"samplesRemaining" : "stephaneducasse 2/4/2006 20:40",
+		"soundClassName:" : "stephaneducasse 2/4/2006 20:40",
+		"firstSample:" : "stephaneducasse 2/4/2006 20:40",
+		"loopEnd" : "jm 2/2/1999 08:11",
+		"soundClassName" : "jm 2/2/1999 09:46"
+	},
+	"class" : { }
+}

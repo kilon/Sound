@@ -1,0 +1,23 @@
+{
+	"instance" : {
+		"initializeTriangularWindow" : "stephaneducasse 2/4/2006 20:41",
+		"realData:imagData:" : "stephaneducasse 2/4/2006 20:41",
+		"transformDataFrom:startingAt:" : "ul 8/3/2010 15:43",
+		"realData" : "jm 8/1/1998 13:08",
+		"nu:" : "stephaneducasse 2/4/2006 20:41",
+		"realData:" : "stephaneducasse 2/4/2006 20:41",
+		"pluginPrepareData" : "stephaneducasse 2/4/2006 20:41",
+		"pluginTransformData:" : "ar 2/13/2001 21:10",
+		"scaleData" : "stephaneducasse 2/4/2006 20:41",
+		"transformForward:" : "ul 8/3/2010 15:43",
+		"n" : "jm 8/25/1999 21:59",
+		"permuteData" : "stephaneducasse 2/4/2006 20:41",
+		"samplesPerCycleForIndex:" : "stephaneducasse 2/4/2006 20:41",
+		"imagData" : "jm 8/1/1998 13:08",
+		"setSize:" : "stephaneducasse 2/4/2006 20:41",
+		"initializeHammingWindow:" : "stephaneducasse 2/4/2006 20:41"
+	},
+	"class" : {
+		"new:" : "jm 8/25/1999 12:49"
+	}
+}

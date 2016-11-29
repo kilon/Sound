@@ -1,0 +1,17 @@
+{
+	"instance" : {
+		"stopAfterMSecs:" : "stephaneducasse 2/4/2006 20:41",
+		"mixSampleCount:into:startingAt:leftVol:rightVol:" : "HenrikSperreJohansen 10/25/2010 16:32",
+		"setPitch:dur:loudness:" : "StephaneDucasse 12/22/2013 18:25",
+		"postCopy" : "nice 1/12/2010 20:11",
+		"duration" : "jm 8/17/1998 14:07",
+		"copyRing" : "stephaneducasse 2/4/2006 20:41",
+		"duration:" : "stephaneducasse 2/4/2006 20:41",
+		"setPitch:duration:loudness:" : "StephaneDucasse 12/22/2013 18:25",
+		"reset" : "stephaneducasse 2/4/2006 20:41",
+		"samplesRemaining" : "jm 11/26/97 10:51"
+	},
+	"class" : {
+		"default" : "StephaneDucasse 12/22/2013 18:36"
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"instance" : {
+		"isOn" : "jm 1/6/1999 10:27",
+		"closeMIDIPort" : "jm 1/6/1999 10:50",
+		"initialize" : "alain.plantec 5/28/2009 10:05",
+		"channel:" : "jm 10/14/1998 22:16",
+		"panForChannel:put:" : "jm 1/6/1999 19:45",
+		"panForChannel:" : "jm 1/6/1999 19:45",
+		"mutedForChannel:put:" : "jm 1/6/1999 20:12",
+		"midiParser" : "jm 10/14/1998 21:52",
+		"volumeForChannel:put:" : "jm 1/6/1999 16:40",
+		"instrumentForChannel:" : "jm 1/6/1999 08:13",
+		"volumeForChannel:" : "jm 1/6/1999 16:40",
+		"setAllChannelMasterVolumes:" : "stephaneducasse 2/4/2006 20:41",
+		"instrumentForChannel:put:" : "jm 1/6/1999 08:14",
+		"stopMIDITracking" : "stephaneducasse 2/4/2006 20:41",
+		"midiPort" : "jm 1/6/1999 08:26",
+		"startMIDITracking" : "stephaneducasse 2/4/2006 20:41",
+		"processMIDIUntilMouseDown" : "jm 10/14/1998 14:14",
+		"processMIDI" : "nice 12/27/2009 03:10",
+		"midiPort:" : "jm 1/6/1999 16:32",
+		"midiTrackingLoop" : "jm 10/13/1998 12:09"
+	},
+	"class" : {
+		"example" : "stephaneducasse 2/4/2006 20:41"
+	}
+}

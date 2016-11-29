@@ -1,0 +1,17 @@
+{
+	"instance" : {
+		"decodeCompressedData:" : "stephaneducasse 2/4/2006 20:41",
+		"compressSound:" : "stephaneducasse 2/4/2006 20:41",
+		"bytesPerEncodedFrame" : "di 2/8/1999 14:23",
+		"samplesPerFrame" : "jm 2/2/1999 15:45",
+		"decodeFrames:from:at:into:at:" : "jm 2/2/1999 15:38",
+		"compressSound:atRate:" : "stephaneducasse 2/4/2006 20:41",
+		"frameCount:" : "stephaneducasse 2/4/2006 20:41",
+		"encodeSoundBuffer:" : "stephaneducasse 2/4/2006 20:41",
+		"reset" : "jm 2/4/1999 11:30",
+		"decompressSound:" : "StephaneDucasse 12/22/2013 18:36",
+		"compressAndDecompress:" : "jm 2/2/1999 16:01",
+		"encodeFrames:from:at:into:at:" : "jm 2/2/1999 15:39"
+	},
+	"class" : { }
+}

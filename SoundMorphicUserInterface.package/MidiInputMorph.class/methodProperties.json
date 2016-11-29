@@ -1,0 +1,22 @@
+{
+	"instance" : {
+		"channelNumAndMuteButtonFor:" : "stephaneducasse 2/4/2006 20:41",
+		"invokeMenu" : "StephaneDucasse 2/16/2011 14:57",
+		"instrumentChoicesForChannel:" : "stephaneducasse 2/4/2006 20:41",
+		"closeMIDIPort" : "jm 1/13/1999 07:33",
+		"atChannel:from:selectInstrument:" : "gm 2/28/2003 00:00",
+		"toggleOnOff" : "stephaneducasse 2/4/2006 20:41",
+		"addChannel" : "alain.plantec 2/8/2009 22:22",
+		"initialize" : "stephaneducasse 2/4/2006 20:41",
+		"setMIDIPort" : "stephaneducasse 2/4/2006 20:41",
+		"updateInstrumentsFromLibraryExcept:" : "stephaneducasse 2/4/2006 20:41",
+		"defaultBorderWidth" : "dgd 2/14/2003 22:38",
+		"addChannelControlsFor:" : "stephaneducasse 2/4/2006 20:41",
+		"defaultColor" : "dgd 2/14/2003 22:28",
+		"disableReverb:" : "jm 1/6/1999 07:55",
+		"panAndVolControlsFor:" : "stephaneducasse 2/4/2006 20:41",
+		"makeControls" : "stephaneducasse 2/4/2006 20:41",
+		"makeRow" : "ar 11/9/2000 21:19"
+	},
+	"class" : { }
+}

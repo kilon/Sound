@@ -1,0 +1,32 @@
+{
+	"instance" : {
+		"readTrackContents:" : "stephaneducasse 2/4/2006 20:41",
+		"readVarLengthIntFrom:" : "stephaneducasse 2/4/2006 20:41",
+		"next32BitWord:" : "stephaneducasse 2/4/2006 20:41",
+		"asScore" : "jm 1/6/98 23:20",
+		"isTempoTrack:" : "jm 1/3/98 09:45",
+		"readChunkSize" : "stephaneducasse 2/4/2006 20:41",
+		"report:" : "jm 12/30/97 06:36",
+		"riffSkipToMidiChunk" : "jm 2/1/98 19:20",
+		"endNote:chan:at:" : "stephaneducasse 2/4/2006 20:41",
+		"startNote:vel:chan:at:" : "nice 12/27/2009 03:10",
+		"next16BitWord" : "stephaneducasse 2/4/2006 20:41",
+		"readTrackChunk" : "stephaneducasse 2/4/2006 20:41",
+		"scanForMIDIHeader" : "stephaneducasse 2/4/2006 20:41",
+		"metaEventAt:" : "stephaneducasse 2/4/2006 20:41",
+		"readMIDIFrom:" : "stephaneducasse 2/4/2006 20:41",
+		"splitIntoTracks" : "stephaneducasse 2/4/2006 20:41",
+		"endAllNotesAt:" : "nice 12/27/2009 03:10",
+		"trackContainsNotes:" : "jm 9/12/1998 17:15",
+		"readTrackEvents" : "stephaneducasse 2/4/2006 20:41",
+		"readHeaderChunk" : "stephaneducasse 2/4/2006 20:41",
+		"guessMissingInstrumentNames" : "stephaneducasse 2/4/2006 20:41",
+		"readChunkType" : "stephaneducasse 2/4/2006 20:41"
+	},
+	"class" : {
+		"standardMIDIInstrumentNames" : "jm 9/12/1998 19:57",
+		"scoreFromFileNamed:" : "stephaneducasse 2/4/2006 20:41",
+		"scoreFromStream:" : "stephaneducasse 2/4/2006 20:41",
+		"scoreFromURL:" : "janniklaval 1/23/2013 11:32"
+	}
+}

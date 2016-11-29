@@ -1,0 +1,29 @@
+{
+	"instance" : {
+		"addLevelSlider" : "ar 11/9/2000 21:23",
+		"makeLevelMeter" : "janniklaval 6/30/2013 10:24",
+		"initialize" : "dgd 3/7/2003 14:52",
+		"invokeMenu" : "StephaneDucasse 2/16/2011 13:53",
+		"addButtonRow" : "dgd 9/19/2003 13:30",
+		"resetDisplay" : "jm 9/8/1999 12:52",
+		"showSpectrum" : "jm 9/8/1999 15:10",
+		"makeStatusLight" : "janniklaval 6/30/2013 10:24",
+		"delete" : "jm 9/6/1999 14:40",
+		"updateDisplay" : "jm 9/8/1999 19:39",
+		"stop" : "jm 9/8/1999 15:12",
+		"defaultBorderWidth" : "dgd 3/7/2003 14:52",
+		"setFFTSize" : "StephaneDucasse 2/16/2011 16:15",
+		"buttonName:action:" : "jhm 10/15/97 14:30",
+		"processBuffer:" : "gm 2/28/2003 00:11",
+		"removeAllDisplays" : "jm 9/8/1999 12:49",
+		"step" : "jm 9/8/1999 19:05",
+		"setSamplingRate" : "StephaneDucasse 2/16/2011 16:18",
+		"stepTime" : "jm 9/7/1999 22:26",
+		"showSonogram" : "jm 9/8/1999 19:43",
+		"stopStepping" : "jm 9/6/1999 12:12",
+		"showSignal" : "jm 9/8/1999 19:56",
+		"start" : "jm 9/8/1999 15:12",
+		"setDisplayType" : "StephaneDucasse 2/16/2011 16:14"
+	},
+	"class" : { }
+}

@@ -1,0 +1,34 @@
+{
+	"instance" : {
+		"start:stop:minorTick:minorTickLength:majorTick:majorTickLength:caption:tickPrintBlock:labelsAbove:captionAbove:" : "StephaneDucasse 12/22/2013 20:51",
+		"initialize" : "StephaneDucasse 12/22/2013 20:45",
+		"start:stop:minorTick:minorTickLength:majorTick:majorTickLength:" : "StephaneDucasse 12/22/2013 20:50",
+		"start:" : "StephaneDucasse 12/22/2013 20:47",
+		"caption" : "StephaneDucasse 12/22/2013 20:47",
+		"caption:" : "StephaneDucasse 12/22/2013 20:47",
+		"start:stop:minorTick:minorTickLength:majorTick:majorTickLength:caption:tickPrintBlock:" : "StephaneDucasse 12/22/2013 20:50",
+		"drawOn:" : "StephaneDucasse 12/22/2013 20:45",
+		"stop" : "RCS 3/15/2000 21:43",
+		"defaultBorderWidth" : "dgd 2/14/2003 22:39",
+		"extent:" : "RCS 3/16/2000 13:59",
+		"stop:" : "StephaneDucasse 12/22/2013 20:47",
+		"majorTickLength:" : "RCS 3/15/2000 21:46",
+		"tickPrintBlock:" : "StephaneDucasse 12/22/2013 20:47",
+		"captionAbove:" : "RCS 3/16/2000 00:38",
+		"drawTicksOn:" : "RCS 3/16/2000 14:19",
+		"drawMinorTicksOn:" : "nice 12/27/2009 03:10",
+		"drawMajorTicksOn:" : "nice 12/27/2009 03:10",
+		"buildLabels" : "StephaneDucasse 12/22/2013 22:25",
+		"defaultColor" : "dgd 2/14/2003 22:30",
+		"checkExtent:" : "RCS 3/16/2000 13:58",
+		"labelsAbove:" : "StephaneDucasse 12/22/2013 20:47",
+		"start" : "RCS 3/15/2000 21:43",
+		"minorTickLength:" : "StephaneDucasse 12/22/2013 20:47"
+	},
+	"class" : {
+		"example1" : "sma 3/24/2000 12:09",
+		"example2" : "sma 3/24/2000 12:09",
+		"example3" : "sma 3/24/2000 12:11",
+		"example4" : "sma 3/24/2000 12:10"
+	}
+}

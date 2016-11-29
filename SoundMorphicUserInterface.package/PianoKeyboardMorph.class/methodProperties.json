@@ -1,0 +1,17 @@
+{
+	"instance" : {
+		"mouseUpEvent:noteMorph:pitch:" : "ar 3/18/2001 17:28",
+		"mouseUpPitch:event:noteMorph:" : "ar 3/17/2001 14:29",
+		"mouseDownEvent:noteMorph:pitch:" : "ar 3/18/2001 17:27",
+		"mouseDownPitch:event:noteMorph:" : "ar 3/17/2001 14:27",
+		"initialize" : "dgd 2/14/2003 20:56",
+		"mouseMoveEvent:noteMorph:pitch:" : "ar 3/18/2001 17:27",
+		"mouseMovePitch:event:noteMorph:" : "ar 3/17/2001 14:28",
+		"buildKeyboard" : "janniklaval 6/30/2013 10:25",
+		"defaultColor" : "dgd 2/14/2003 22:29",
+		"soundPrototype:" : "di 9/4/1998 12:57"
+	},
+	"class" : {
+		"descriptionForPartsBin" : "sw 8/2/2001 14:52"
+	}
+}

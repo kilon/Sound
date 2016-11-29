@@ -1,0 +1,34 @@
+{
+	"instance" : {
+		"recordTwo:" : "stephaneducasse 2/4/2006 20:41",
+		"ignoreZero:" : "jm 10/9/1998 07:45",
+		"ignoreChannel:" : "jm 10/8/1998 20:39",
+		"setMIDIPort:" : "stephaneducasse 2/4/2006 20:41",
+		"printCmd:with:with:" : "stephaneducasse 2/4/2006 20:41",
+		"ignoreOne:" : "stephaneducasse 2/4/2006 20:41",
+		"recordOne:" : "stephaneducasse 2/4/2006 20:41",
+		"ignoreCommand:" : "stephaneducasse 2/4/2006 20:41",
+		"midiDo:" : "jm 10/9/1998 07:53",
+		"recordZero:" : "jm 10/9/1998 07:43",
+		"startSysExclusive:" : "stephaneducasse 2/4/2006 20:41",
+		"ignoreSysEx:" : "stephaneducasse 2/4/2006 20:41",
+		"noFiltering" : "stephaneducasse 2/4/2006 20:41",
+		"midiDoUntilMouseDown:" : "stephaneducasse 2/4/2006 20:41",
+		"received" : "jm 10/8/1998 20:24",
+		"clearBuffers" : "stephaneducasse 2/4/2006 20:41",
+		"ignoreTuneAndRealTimeCommands" : "jm 10/9/1998 07:46",
+		"midiPort" : "jm 1/6/1999 08:25",
+		"processByte:" : "stephaneducasse 2/4/2006 20:41",
+		"undefined:" : "jm 10/8/1998 17:12",
+		"endSysExclusive:" : "jm 10/8/1998 18:34",
+		"monitor" : "jm 10/8/1998 21:22",
+		"midiPort:" : "stephaneducasse 2/4/2006 20:41",
+		"recordOnlyChannels:" : "jm 10/9/1998 07:50",
+		"processMIDIData" : "stephaneducasse 2/4/2006 20:41",
+		"ignoreTwo:" : "stephaneducasse 2/4/2006 20:41"
+	},
+	"class" : {
+		"initialize" : "stephaneducasse 2/4/2006 20:41",
+		"on:" : "jm 10/8/1998 20:29"
+	}
+}

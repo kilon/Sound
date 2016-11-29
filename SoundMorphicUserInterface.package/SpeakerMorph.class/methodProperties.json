@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"addGraphic" : "nk 6/12/2004 10:05",
+		"speakerGraphic" : "jm 4/22/1999 22:58",
+		"conePosition:" : "jm 4/22/1999 16:46",
+		"initialize" : "dgd 3/7/2003 14:51",
+		"flushBuffer" : "jm 4/22/1999 13:29",
+		"stopSound" : "jm 4/22/1999 15:33",
+		"conePosition" : "jm 4/21/1999 10:18",
+		"appendSample:" : "jm 4/22/1999 16:45",
+		"defaultColor" : "dgd 3/7/2003 14:51"
+	},
+	"class" : { }
+}

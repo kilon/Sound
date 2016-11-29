@@ -1,0 +1,32 @@
+{
+	"instance" : {
+		"privateEncodeMono:" : "HenrikSperreJohansen 10/25/2010 16:31",
+		"decode:bitsPerSample:" : "jm 3/28/1999 06:26",
+		"decodeFrames:from:at:into:at:" : "stephaneducasse 2/4/2006 20:40",
+		"privateDecodeStereo:" : "HenrikSperreJohansen 10/25/2010 16:30",
+		"reset" : "jm 12/14/2001 11:21",
+		"resetForStereo" : "stephaneducasse 2/4/2006 20:40",
+		"samplesPerFrame" : "jm 3/27/1999 08:34",
+		"encodeFlashLeft:right:bitsPerSample:" : "jm 3/28/1999 08:58",
+		"bytesPerEncodedFrame" : "stephaneducasse 2/4/2006 20:40",
+		"decodeFlash:sampleCount:stereo:" : "stephaneducasse 2/4/2006 20:40",
+		"privateEncodeStereo:" : "HenrikSperreJohansen 10/25/2010 16:28",
+		"compressAndDecompress:" : "stephaneducasse 2/4/2006 20:40",
+		"encodeFrames:from:at:into:at:" : "stephaneducasse 2/4/2006 20:40",
+		"resetForMono" : "stephaneducasse 2/4/2006 20:40",
+		"headerBitsForSampleCount:stereoFlag:" : "stephaneducasse 2/4/2006 20:40",
+		"decode:sampleCount:bitsPerSample:frameSize:stereo:" : "stephaneducasse 2/4/2006 20:40",
+		"encode:bitsPerSample:" : "jm 3/28/1999 08:59",
+		"initializeForBitsPerSample:samplesPerFrame:" : "stephaneducasse 2/4/2006 20:40",
+		"indexForDeltaFrom:to:" : "HenrikSperreJohansen 10/25/2010 16:27",
+		"nextBits:" : "nice 12/28/2012 00:37",
+		"encodeLeft:right:bitsPerSample:frameSize:forFlash:" : "stephaneducasse 2/4/2006 20:40",
+		"privateDecodeMono:" : "HenrikSperreJohansen 10/25/2010 16:30",
+		"nextBits:put:" : "nice 12/28/2012 00:38"
+	},
+	"class" : {
+		"new" : "jm 3/27/1999 11:15",
+		"translatedPrimitives" : "ar 2/3/2001 15:50",
+		"newBitsPerSample:" : "jm 11/15/2001 16:02"
+	}
+}

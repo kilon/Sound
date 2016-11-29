@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"uLawEncodeSample:" : "stephaneducasse 2/4/2006 20:41",
+		"uLawDecodeSample:" : "di 2/8/1999 22:28",
+		"decodeFrames:from:at:into:at:" : "stephaneducasse 2/4/2006 20:41",
+		"samplesPerFrame" : "jm 2/2/1999 09:11",
+		"uLawEncode12Bits:" : "di 2/9/1999 13:25",
+		"bytesPerEncodedFrame" : "jm 2/2/1999 09:15",
+		"encodeFrames:from:at:into:at:" : "di 2/8/1999 22:25"
+	},
+	"class" : {
+		"initialize" : "stephaneducasse 2/4/2006 20:41"
+	}
+}

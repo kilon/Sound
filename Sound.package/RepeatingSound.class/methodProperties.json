@@ -1,0 +1,24 @@
+{
+	"instance" : {
+		"setSound:iterations:" : "stephaneducasse 2/4/2006 20:41",
+		"mixSampleCount:into:startingAt:leftVol:rightVol:" : "stephaneducasse 2/4/2006 20:41",
+		"setPitch:dur:loudness:" : "jm 9/12/97 15:54",
+		"postCopy" : "nice 1/12/2010 20:11",
+		"setPitch:duration:loudness:" : "StephaneDucasse 12/22/2013 18:25",
+		"iterationCount:" : "stephaneducasse 2/4/2006 20:41",
+		"reset" : "stephaneducasse 2/4/2006 20:41",
+		"copySound" : "stephaneducasse 2/4/2006 20:41",
+		"sound" : "jm 11/17/97 18:48",
+		"sound:" : "stephaneducasse 2/4/2006 20:41",
+		"iterationCount" : "jm 11/17/97 18:48",
+		"doControl" : "jm 11/25/97 13:40",
+		"samplesRemaining" : "jm 1/18/1999 10:31"
+	},
+	"class" : {
+		"carMotorSound:" : "StephaneDucasse 12/22/2013 18:36",
+		"initializeCarMotor" : "stephaneducasse 2/4/2006 20:41",
+		"carMotorSound" : "jm 1/29/1999 10:01",
+		"repeat:count:" : "jm 9/12/97 16:14",
+		"repeatForever:" : "jm 9/12/97 16:13"
+	}
+}

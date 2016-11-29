@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"wantsDroppedMorph:event:" : "marcus.denker 11/18/2008 14:51",
+		"initialize" : "dgd 3/7/2003 14:20",
+		"selectCodec" : "alain.plantec 2/8/2009 21:39",
+		"addCustomMenuItems:hand:" : "dgd 8/30/2003 21:17",
+		"defaultColor" : "dgd 3/7/2003 14:20",
+		"codecClassName:" : "jm 2/4/1999 12:36",
+		"acceptDroppingMorph:event:" : "jm 2/4/1999 12:37"
+	},
+	"class" : { }
+}

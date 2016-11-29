@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"outputOnMidiPort:" : "jm 9/10/1998 18:31",
+		"channel" : "jm 9/10/1998 07:47",
+		"printOn:" : "jm 9/10/1998 08:28",
+		"program" : "jm 9/10/1998 07:49",
+		"isProgramChange" : "jm 9/10/1998 09:46",
+		"channel:" : "stephaneducasse 2/4/2006 20:41",
+		"program:channel:" : "stephaneducasse 2/4/2006 20:41",
+		"program:" : "stephaneducasse 2/4/2006 20:41"
+	},
+	"class" : { }
+}

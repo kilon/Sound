@@ -1,0 +1,36 @@
+{
+	"instance" : {
+		"soundPosition:" : "stephaneducasse 2/4/2006 20:41",
+		"readAIFFHeader" : "stephaneducasse 2/4/2006 20:41",
+		"repeat:" : "stephaneducasse 2/4/2006 20:41",
+		"positionCodecTo:" : "stephaneducasse 2/4/2006 20:41",
+		"duration" : "jm 11/16/2001 17:12",
+		"volume" : "jm 9/26/2000 07:49",
+		"readSunAudioHeader" : "stephaneducasse 2/4/2006 20:41",
+		"startOver" : "stephaneducasse 2/4/2006 20:41",
+		"repeat" : "jm 10/18/2001 15:46",
+		"closeFile" : "stephaneducasse 2/4/2006 20:41",
+		"loadBuffer:compressedSampleCount:" : "stephaneducasse 2/4/2006 20:41",
+		"reset" : "jm 10/21/2001 09:45",
+		"streamSamplingRate" : "jm 11/20/2001 16:59",
+		"loadFromLeftovers:sampleCount:" : "stephaneducasse 2/4/2006 20:41",
+		"extractFrom:to:" : "stephaneducasse 2/4/2006 20:41",
+		"saveAsFileNamed:compressionType:" : "stephaneducasse 2/4/2006 20:41",
+		"createMixer" : "stephaneducasse 2/4/2006 20:41",
+		"initStream:headerStart:" : "stephaneducasse 2/4/2006 20:41",
+		"loadBuffersForSampleCount:" : "stephaneducasse 2/4/2006 20:41",
+		"playSampleCount:into:startingAt:" : "stephaneducasse 2/4/2006 20:41",
+		"soundPosition" : "jm 11/16/2001 17:05",
+		"readHeader" : "stephaneducasse 2/4/2006 20:41",
+		"loadBuffer:uncompressedSampleCount:" : "jm 11/21/2001 08:03",
+		"currentSampleIndex" : "stephaneducasse 2/4/2006 20:41",
+		"samplesRemaining" : "stephaneducasse 2/4/2006 20:41",
+		"millisecondsSinceStart" : "stephaneducasse 2/4/2006 20:41",
+		"storeSunAudioOn:compressionType:" : "nice 12/27/2009 03:10",
+		"volume:" : "stephaneducasse 2/4/2006 20:41"
+	},
+	"class" : {
+		"onFileNamed:" : "StephaneDucasse 8/3/2013 22:29",
+		"onFileNamed:headerStart:" : "StephaneDucasse 8/3/2013 22:29"
+	}
+}

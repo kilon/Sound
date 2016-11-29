@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"closeFile" : "StephaneDucasse 8/3/2013 19:18",
+		"writeHeaderSamplingRate:" : "jm 11/16/2001 17:55",
+		"appendSamples:" : "stephaneducasse 2/4/2006 20:41",
+		"appendBytes:" : "jm 11/16/2001 18:02",
+		"updateHeaderDataSize" : "stephaneducasse 2/4/2006 20:41",
+		"writeHeaderSamplingRate:format:" : "jm 11/16/2001 22:10",
+		"setStream:" : "stephaneducasse 2/4/2006 20:41",
+		"ensureOpen" : "sd 1/30/2004 15:23"
+	},
+	"class" : {
+		"storeSampledSound:onFileNamed:compressionType:" : "stephaneducasse 2/4/2006 20:41",
+		"onFileNamed:" : "stephaneducasse 2/4/2006 20:41",
+		"formatCodeForCompressionType:" : "stephaneducasse 2/4/2006 20:41",
+		"onStream:" : "jm 11/16/2001 17:50",
+		"codecForFormatCode:" : "jm 11/21/2001 15:42"
+	}
+}

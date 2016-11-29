@@ -1,0 +1,21 @@
+{
+	"instance" : {
+		"backspaceNote" : "di 6/20/1999 00:20",
+		"soundForEvent:inTrack:" : "stephaneducasse 2/4/2006 20:41",
+		"deleteNotes" : "di 6/20/1999 00:20",
+		"emitRest" : "stephaneducasse 2/4/2006 20:41",
+		"fullDuration" : "stephaneducasse 2/4/2006 20:41",
+		"mouseUpPitch:event:noteMorph:" : "ar 3/17/2001 14:28",
+		"durMod:onOff:" : "stephaneducasse 2/4/2006 20:41",
+		"mouseDownPitch:event:noteMorph:" : "stephaneducasse 2/4/2006 20:41",
+		"velocity" : "di 6/19/1999 23:13",
+		"initialize" : "stephaneducasse 2/4/2006 20:41",
+		"addRecordingControls" : "stephaneducasse 2/4/2006 20:41",
+		"articulation:onOff:" : "stephaneducasse 2/4/2006 20:41",
+		"noteDuration" : "di 6/20/1999 00:27",
+		"pianoRoll:" : "stephaneducasse 2/4/2006 20:41",
+		"buildChord:" : "di 6/18/1999 15:50",
+		"duration:onOff:" : "stephaneducasse 2/4/2006 20:41"
+	},
+	"class" : { }
+}

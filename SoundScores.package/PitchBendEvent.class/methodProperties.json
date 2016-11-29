@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"outputOnMidiPort:" : "jm 9/10/1998 18:31",
+		"channel" : "jm 9/10/1998 07:47",
+		"bend:" : "stephaneducasse 2/4/2006 20:41",
+		"printOn:" : "jm 9/10/1998 09:42",
+		"channel:" : "stephaneducasse 2/4/2006 20:41",
+		"isPitchBend" : "jm 9/10/1998 09:45",
+		"bend" : "jm 9/10/1998 07:49",
+		"bend:channel:" : "stephaneducasse 2/4/2006 20:41"
+	},
+	"class" : { }
+}

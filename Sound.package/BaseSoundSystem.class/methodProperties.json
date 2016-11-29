@@ -1,0 +1,17 @@
+{
+	"instance" : {
+		"playSoundNamed:ifAbsentReadFrom:" : "StephaneDucasse 8/3/2013 22:49",
+		"beep" : "StephaneDucasse 8/3/2013 22:50",
+		"playSampledSound:rate:" : "StephaneDucasse 8/3/2013 22:47",
+		"sampledSoundChoices" : "ads 7/30/2003 22:18",
+		"shutDown" : "gk 2/23/2004 19:53",
+		"playSoundNamedOrBeep:" : "StephaneDucasse 8/3/2013 22:49",
+		"randomBitsFromSoundInput:" : "stephaneducasse 2/4/2006 20:40",
+		"soundNamed:" : "ads 7/30/2003 23:17",
+		"playSoundNamed:" : "StephaneDucasse 8/3/2013 22:49"
+	},
+	"class" : {
+		"initialize" : "StephaneDucasse 8/3/2013 22:53",
+		"unload" : "StephaneDucasse 8/3/2013 22:54"
+	}
+}

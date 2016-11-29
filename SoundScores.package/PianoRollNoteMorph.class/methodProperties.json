@@ -1,0 +1,28 @@
+{
+	"instance" : {
+		"handlesMouseDown:" : "di 6/15/1999 14:55",
+		"mouseUp:" : "di 6/19/1999 08:29",
+		"gridToNextQuarter" : "di 6/17/1999 16:08",
+		"indexInTrack" : "di 6/17/1999 11:17",
+		"deselect" : "stephaneducasse 2/4/2006 20:41",
+		"playSound:" : "stephaneducasse 2/4/2006 20:41",
+		"editPitch:" : "stephaneducasse 2/4/2006 20:41",
+		"drawOn:" : "di 6/17/1999 10:56",
+		"noteInScore" : "di 6/17/1999 11:48",
+		"mouseDown:" : "stephaneducasse 2/4/2006 20:41",
+		"selected" : "di 6/20/1999 11:44",
+		"invokeNoteMenu:" : "stephaneducasse 2/4/2006 20:41",
+		"soundOfDuration:" : "stephaneducasse 2/4/2006 20:41",
+		"trackIndex" : "di 6/17/1999 11:16",
+		"playSound" : "di 6/19/1999 08:19",
+		"select" : "stephaneducasse 2/4/2006 20:41",
+		"noteOfDuration:" : "stephaneducasse 2/4/2006 20:41",
+		"selectNotes:" : "stephaneducasse 2/4/2006 20:41",
+		"trackIndex:indexInTrack:" : "stephaneducasse 2/4/2006 20:41",
+		"fullBounds" : "di 6/17/1999 10:55",
+		"gridToPrevQuarter" : "di 6/17/1999 16:08",
+		"mouseMove:" : "dgd 2/22/2003 14:49",
+		"selectFrom:" : "dgd 2/22/2003 14:50"
+	},
+	"class" : { }
+}

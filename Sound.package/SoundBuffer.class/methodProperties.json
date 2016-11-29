@@ -1,0 +1,40 @@
+{
+	"instance" : {
+		"averageEvery:from:upTo:" : "stephaneducasse 2/4/2006 20:41",
+		"downSampledLowPassFiltering:" : "stephaneducasse 2/4/2006 20:41",
+		"asByteArray" : "stephaneducasse 2/4/2006 20:41",
+		"monoSampleCount" : "jm 9/17/97 13:00",
+		"splitStereo" : "stephaneducasse 2/4/2006 20:41",
+		"trimmedThreshold:" : "stephaneducasse 2/4/2006 20:41",
+		"size" : "jm 9/17/97 13:28",
+		"extractLeftChannel" : "stephaneducasse 2/4/2006 20:41",
+		"storeExtendedFloat:on:" : "stephaneducasse 2/4/2006 20:41",
+		"writeOnGZIPByteStream:" : "RAA 7/11/2000 11:31",
+		"extractRightChannel" : "stephaneducasse 2/4/2006 20:41",
+		"primFill:" : "jm 9/2/97 16:07",
+		"stereoSampleCount" : "jm 9/17/97 13:01",
+		"restoreEndianness" : "stephaneducasse 2/4/2006 20:41",
+		"at:" : "jm 9/17/97 13:03",
+		"lowPassFiltered" : "StephaneDucasse 8/3/2013 18:55",
+		"reverseEndianness" : "stephaneducasse 2/4/2006 20:41",
+		"saveAsAIFFFileSamplingRate:on:" : "stephaneducasse 2/4/2006 20:41",
+		"mergeStereo" : "stephaneducasse 2/4/2006 20:41",
+		"indexOfLastSampleOver:" : "jhm 10/15/97 15:13",
+		"indexOfFirstSampleOver:" : "jhm 10/15/97 15:13",
+		"at:put:" : "jm 9/17/97 13:03",
+		"bytesPerElement" : "tk 3/13/2000 14:46",
+		"normalized:" : "stephaneducasse 2/4/2006 20:41"
+	},
+	"class" : {
+		"startUp" : "stephaneducasse 2/4/2006 20:41",
+		"startUpFrom:" : "nk 2/22/2005 15:29",
+		"fromArray:" : "stephaneducasse 2/4/2006 20:41",
+		"newStereoSampleCount:" : "jm 9/17/97 12:52",
+		"initialize" : "stephaneducasse 2/4/2006 20:41",
+		"new:" : "jm 9/17/97 13:25",
+		"averageEvery:from:upTo:" : "RAA 12/30/2000 18:20",
+		"sineTable" : "ads 7/31/2003 11:13",
+		"newMonoSampleCount:" : "jm 9/17/97 12:44",
+		"fromByteArray:" : "stephaneducasse 2/4/2006 20:41"
+	}
+}

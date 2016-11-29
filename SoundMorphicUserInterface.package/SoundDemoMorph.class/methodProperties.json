@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"playV1" : "dgd 2/22/2003 13:35",
+		"initializeSoundColumn" : "jam 3/9/2003 17:52",
+		"stopSound" : "jm 11/14/97 11:09",
+		"playV3" : "dgd 2/22/2003 13:35",
+		"initialize" : "dgd 2/14/2003 21:04",
+		"playAll" : "dgd 2/22/2003 13:34",
+		"setTimbreFromTile:" : "jm 11/14/97 11:09",
+		"defaultBorderWidth" : "dgd 2/14/2003 22:40",
+		"defaultColor" : "dgd 2/14/2003 22:31",
+		"playV2" : "dgd 2/22/2003 13:35",
+		"makeControls" : "tk 2/19/2001 17:49"
+	},
+	"class" : { }
+}
