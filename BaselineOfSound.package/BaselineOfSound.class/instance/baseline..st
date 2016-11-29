@@ -8,8 +8,10 @@ baseline: spec
 			
 			spec 
 			   package: 'SoundMorphicExtension';	
-				package: 'Sound';
-				package: 'SoundScores';
-				package: 'SoundMorphicUserInterface'.  
+				package: 'SoundScores' with: [ spec requires: #('Sound') ];
+				package: 'Settings-Sound' with: [ spec requires: #('Sound') ];
+				package: 'Sound' with: [ spec requires: #('SoundMorphicExtension' 'SoundScores') ]; 
+				package: 'SoundMorphicUserInterface' with: [ spec requires: #('SoundMorphicExtension' 'Sound' 'SoundScores') ].
+				.
 			   
  ]	
